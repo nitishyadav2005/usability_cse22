@@ -40,6 +40,11 @@ ul {
 
 .top-banner {
     background-image: url(./assets/asset\ 32.png);
-    background-color: aqua;
+    background-color: rgb(79, 179, 212);
     background-size: 300px;
+}
+.banner-text{
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
 }
